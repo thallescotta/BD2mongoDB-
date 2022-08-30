@@ -1,0 +1,1 @@
+servidor = "mongodb+srv://admin:123@av2.rhw3n.mongodb.net/test?authSource=admin&replicaSet=atlas-e451mu-shard-0&readPreference=primary&appname=MongoDB%20Compass&ssl=true"
