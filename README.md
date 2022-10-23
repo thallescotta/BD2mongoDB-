@@ -27,4 +27,4 @@ Trabalho 2, como avalição da disciplina "Banco de Dados 2" em Maio de 2021.
 
 <center><img src="https://user-images.githubusercontent.com/6175226/99718684-0274e200-2a8a-11eb-97e8-11f140e4f018.gif"></center>
 
-> Status: Developing ⚠️
+> Status: Delivered 💚 ✓
